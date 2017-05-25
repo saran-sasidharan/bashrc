@@ -122,6 +122,9 @@ export PATH="/home/numguy/anaconda2/bin:$PATH"
 # MY CUSTOMIZATION
 
 # Prompt Display
+# Thanks to Andrew Burgess
+# Link : https://tutsplus.com/authors/andrew-burgess
+
 export PATH=~/Softwares/bin:$PATH
  
 txtblk='\e[0;30m' # Black - Regular
